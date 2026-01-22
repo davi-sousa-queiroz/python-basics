@@ -56,7 +56,7 @@ if difficulty == '1':
         print(f'Your current score is: {score}')
     elif answerA3 == '3':
         print('Bad Luck')
-print(f'Congrats, You have finished the Python Quiz on {difficulty} mode!')
+print('Congrats, You have finished the Python Quiz on easy mode!')
 if score == 0:
     print('Wow.. looks like you got them all wrong.')
     print(f"Your final score was: {score}/3")
