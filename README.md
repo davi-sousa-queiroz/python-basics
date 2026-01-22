@@ -1,10 +1,12 @@
 📘 Python Quiz Game (January 21st - 22nd 2026)
 This is my first GitHub project, made while learning Python.
 It’s a simple command-line quiz game that tests basic Python knowledge with:
+
 • Easy mode
 • Hard mode
 • Score system
-• User input
+• User input.
+
 I built this project to practice and memorize Python concepts while coding.
 
 🧠 What I practiced in this project
