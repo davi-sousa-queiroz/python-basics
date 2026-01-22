@@ -22,7 +22,7 @@ I built this project to practice and memorize Python concepts while coding.
 • I run this file using my code editor (Pycharm) by pressing Run.
 
 📚 Learning source
-I Learned the Python concepts used in this project from Bro Code's Python Course on YouTube
+• I Learned the Python concepts used in this project from Bro Code's Python Course on YouTube
 
 🚀 Future plans
 • Clean up the code
