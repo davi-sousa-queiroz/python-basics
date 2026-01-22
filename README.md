@@ -16,7 +16,7 @@ I built this project to practice and memorize Python concepts while coding.
 • If / elif / else statements
 • String methods
 • Basic math
-ª Simple logic
+• Simple logic
 
 ▶️ How I run the project
 I run this file using my code editor (Pycharm) by pressing Run.
